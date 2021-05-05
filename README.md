@@ -3,6 +3,8 @@
 可以藉由在調色盤上直接點選或是在RGB欄位中輸入數值(0-255)來調整顏色，
 輸出為正規化的RGB數值(0-1)
 
+[![View MATLAB-uicolorpicker on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/91615-matlab-uicolorpicker)
+
 ![script snapshot](https://i.imgur.com/VaXlV9d.png)
 
 ---
