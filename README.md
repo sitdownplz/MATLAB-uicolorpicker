@@ -17,3 +17,10 @@
 #### MATLAB 支援版本
     - R2020b
     - R2021a
+
+#### 其他 (ref.)
+
+   <br> MATLAB Compiler: </br>
+   https://www.mathworks.com/products/compiler.html
+   <br> Create Standalone Application from MATLAB: </br>
+   https://www.mathworks.com/help/compiler/create-and-install-a-standalone-application-from-matlab-code.html
